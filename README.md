@@ -3,7 +3,7 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,js,react,php,html,css,gcp,figma)](https://skillicons.dev)<br/>
 
-[![Website](https://img.shields.io/website?label=kartikasw&style=for-the-badge&url=http%3A%2F%2Fkartikasw.pages.dev)](https://kartikasw.pages.dev)
+[![Website](https://img.shields.io/website?label=kartikasw&style=for-the-badge&url=http%3A%2F%2Fkartikasw-web.pages.dev)](https://kartikasw-web.pages.dev)
 [![Linkedin Connect](https://img.shields.io/static/v1?label=Linkedin&message=Connect&color=blue&style=for-the-badge&logo=linkedin&logoColor=skyblue)](https://linkedin.com/in/kartikasw)
 
 <details>
