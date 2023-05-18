@@ -1,0 +1,13 @@
+# Hey There! 👋
+**I'm Kartika (she)** - a software engineer who works primarly with designing, developing, testing, and maintaining mobile applications. I'm passionate about building apps that solve real-world problems and improve people's lives!!!
+
+[![SkillIcons](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,js,react,php,html,css,gcp,figma)](https://skillicons.dev)<br/>
+
+[![Website](https://img.shields.io/website?label=kartikasw&style=for-the-badge&url=http%3A%2F%2Fkartikasw.pages.dev)](https://kartikasw.pages.dev)
+[![Linkedin Connect](https://img.shields.io/static/v1?label=Linkedin&message=Connect&color=blue&style=for-the-badge&logo=linkedin&logoColor=skyblue)](https://linkedin.com/in/kartikasw)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Kartika's Github Stats](https://github-readme-stats.vercel.app/api?username=kartikasw&count_private=true)</a>
+</details>
