@@ -3,7 +3,7 @@
 
 I am deeply passionate about technology and dedicate a lot of my time to it. With the tech landscape constantly evolving, I find great joy in staying up-to-date and continuously learning new things!
 
-- 🌱 I’m currently learning about server-side technologies.
+- 🌱 Currently learning about server-side technologies.
 
 [![SkillIcons](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,swift,figma,go)](https://skillicons.dev)<br/>
 
