@@ -12,7 +12,7 @@ I am deeply passionate about technology and dedicate a lot of my time to it. Wit
 
 <p align="left">
 <a href="https://github.com/kartikasw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arceister&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kartikasw&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kartikasw&layout=compact&langs_count=7"/>
 </a>
 </p>
