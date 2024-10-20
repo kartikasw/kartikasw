@@ -11,7 +11,7 @@ I am deeply passionate about technology and dedicate a lot of my time to it. Wit
 [![Linkedin Connect](https://img.shields.io/static/v1?label=Linkedin&message=Connect&color=blue&style=for-the-badge&logo=linkedin&logoColor=skyblue)](https://linkedin.com/in/kartikasw)
 
 <p align="left">
-<a href="https://github.com/arceister">
+<a href="https://github.com/kartikasw">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arceister&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kartikasw&layout=compact&langs_count=7"/>
 </a>
