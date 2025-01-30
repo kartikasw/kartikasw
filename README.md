@@ -1,7 +1,7 @@
 # Hey There! 👋
-**I'm Kartika (she)** - a software engineer who (currently) works primarly with designing, developing, testing, and maintaining mobile applications. I'm passionate about building apps that solve real-world problems and improve people's lives!!!
+**I'm Kartika (she)** - a software engineer who (currently) works primarily with designing, developing, testing, and maintaining mobile applications. I'm passionate about building apps that solve real-world problems and improve people's lives!!!
 
-I am deeply passionate about technology and dedicate a lot of my time to it. With the tech landscape constantly evolving, I find great joy in staying up-to-date and continuously learning new things!
+I am deeply passionate about technology and dedicate much of my time to it. With the tech landscape constantly evolving, I find great joy in staying up-to-date and continuously learning new things!
 
 - 🌱 Currently learning about server-side technologies.
 
